@@ -1,0 +1,339 @@
+C:\Users\msi\source\repos\btl\btl\bin\Debug\btl.exe.config
+C:\Users\msi\source\repos\btl\btl\bin\Debug\btl.exe
+C:\Users\msi\source\repos\btl\btl\bin\Debug\btl.pdb
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\btl\btl\obj\Debug\MainWindow.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\App.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl_MarkupCompile.cache
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl_MarkupCompile.lref
+C:\Users\msi\source\repos\btl\btl\obj\Debug\MainWindow.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.g.resources
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.Properties.Resources.resources
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.exe
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.pdb
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmdanhmuc.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmdanhmuc.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmbanchoi.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmbatban.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmdichvu.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frminhoadon.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmkhachhang.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\tracuu.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmbanchoi.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmbatban.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmdichvu.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frminhoadon.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmkhachhang.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\tracuu.baml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmhoadon.g.cs
+C:\Users\msi\source\repos\btl\btl\obj\Debug\frmhoadon.baml
+C:\Users\msi\source\repos\btl\btl\bin\Debug\System.Data.SqlClient.dll
+C:\Users\msi\source\repos\btl\btl\bin\Debug\System.Data.SqlClient.xml
+C:\Users\msi\source\repos\btl\btl\obj\Debug\btl.csproj.Up2Date
+C:\Users\amn\Downloads\btl\btl\bin\Debug\btl.exe.config
+C:\Users\amn\Downloads\btl\btl\bin\Debug\btl.exe
+C:\Users\amn\Downloads\btl\btl\bin\Debug\btl.pdb
+C:\Users\amn\Downloads\btl\btl\bin\Debug\System.Data.SqlClient.dll
+C:\Users\amn\Downloads\btl\btl\bin\Debug\System.Data.SqlClient.xml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+C:\Users\amn\Downloads\btl\btl\obj\Debug\MainWindow.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\App.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl_MarkupCompile.cache
+C:\Users\amn\Downloads\btl\btl\obj\Debug\MainWindow.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.g.resources
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.Properties.Resources.resources
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.csproj.GenerateResource.cache
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.csproj.Up2Date
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.exe
+C:\Users\amn\Downloads\btl\btl\obj\Debug\btl.pdb
+C:\Users\amn\Downloads\btl\btl\obj\Debug\HomeNVWindow.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\HomeQLWindow.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\HomeNVWindow.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\HomeQLWindow.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\BanChoiNV.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\BanChoiQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\DichVuNV.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\DichVuQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\HoaDonQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\InHoaDonNV.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\KhachHangNV.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\KhachHangQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\LoaiBanQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\NhaCCQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\NhanVienQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\TimKiemQL.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\TinhTienNV.baml
+C:\Users\amn\Downloads\btl\btl\obj\Debug\BanChoiNV.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\BanChoiQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\DichVuNV.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\DichVuQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\HoaDonQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\InHoaDonNV.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\KhachHangNV.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\KhachHangQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\LoaiBanQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\NhaCCQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\NhanVienQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\TimKiemQL.g.cs
+C:\Users\amn\Downloads\btl\btl\obj\Debug\TinhTienNV.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\btl.exe.config
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\btl.exe
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\btl.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Data.SqlClient.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Data.SqlClient.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\HomeNVWindow.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\HomeQLWindow.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\MainWindow.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\HomeNVWindow.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\HomeQLWindow.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\MainWindow.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\App.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl_MarkupCompile.cache
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.g.resources
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.Properties.Resources.resources
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.csproj.GenerateResource.cache
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.csproj.Up2Date
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.exe
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Drawing.Common.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Drawing.Common.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Drawing.Common.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\BanChoiNV.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\BanChoiQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\DichVuNV.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\DichVuQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\HoaDonQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\InHoaDonNV.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\KhachHangNV.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\KhachHangQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\LoaiBanQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\NhaCCQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\NhanVienQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\TimKiemQL.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\TinhTienNV.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\BanChoiNV.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\BanChoiQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\DichVuNV.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\DichVuQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\HoaDonQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\InHoaDonNV.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\KhachHangNV.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\KhachHangQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\LoaiBanQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\NhaCCQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\NhanVienQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\QUANLY\TimKiemQL.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\NHANVIEN\TinhTienNV.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\btl.exe.config
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\designin.g.cs
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Charting.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Quality.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.System.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Buffers.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Memory.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.ValueTuple.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Charting.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Quality.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.System.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.System.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Buffers.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Memory.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\System.ValueTuple.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\designin.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.barcodes.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.commons.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.forms.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.io.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.kernel.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.layout.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.pdfa.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.pdfua.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.sign.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.styledxmlparser.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.svg.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.barcodes.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.commons.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.forms.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.io.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.kernel.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.layout.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.pdfa.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.pdfua.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.sign.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.styledxmlparser.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\itext.svg.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\PreviewWindow.baml
+C:\Users\msi\Documents\Zalo Received Files\baitapvip\btl\btl\obj\Debug\PreviewWindow.g.cs
+D:\baitapvip\btl\btl\bin\Debug\btl.exe.config
+D:\baitapvip\btl\btl\bin\Debug\btl.exe
+D:\baitapvip\btl\btl\bin\Debug\btl.pdb
+D:\baitapvip\btl\btl\bin\Debug\itext.barcodes.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.bouncy-castle-connector.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.commons.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.forms.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.io.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.kernel.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.layout.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.pdfa.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.pdfua.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.sign.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.styledxmlparser.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.svg.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Options.dll
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\baitapvip\btl\btl\bin\Debug\Newtonsoft.Json.dll
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Charting.dll
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.dll
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Quality.dll
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Snippets.dll
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.System.dll
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.WPFonts.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Buffers.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Data.SqlClient.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Drawing.Common.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Memory.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Numerics.Vectors.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\baitapvip\btl\btl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\baitapvip\btl\btl\bin\Debug\System.ValueTuple.dll
+D:\baitapvip\btl\btl\bin\Debug\itext.barcodes.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.bouncy-castle-connector.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.commons.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.forms.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.io.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.kernel.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.layout.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.pdfa.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.pdfua.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.sign.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.styledxmlparser.xml
+D:\baitapvip\btl\btl\bin\Debug\itext.svg.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Options.xml
+D:\baitapvip\btl\btl\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\baitapvip\btl\btl\bin\Debug\Newtonsoft.Json.xml
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.pdb
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.xml
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Charting.pdb
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Charting.xml
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Quality.pdb
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Quality.xml
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.Snippets.pdb
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.System.pdb
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.System.xml
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.WPFonts.pdb
+D:\baitapvip\btl\btl\bin\Debug\PdfSharp.WPFonts.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Buffers.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Data.SqlClient.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Drawing.Common.pdb
+D:\baitapvip\btl\btl\bin\Debug\System.Drawing.Common.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Memory.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Numerics.Vectors.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\baitapvip\btl\btl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\baitapvip\btl\btl\bin\Debug\System.ValueTuple.xml
+D:\baitapvip\btl\btl\bin\Debug\de\PdfSharp.resources.dll
+D:\baitapvip\btl\btl\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\baitapvip\btl\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+D:\baitapvip\btl\btl\obj\Debug\btl.csproj.SuggestedBindingRedirects.cache
+D:\baitapvip\btl\btl\obj\Debug\btl.exe.config
+D:\baitapvip\btl\btl\obj\Debug\designin.baml
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\BanChoiNV.baml
+D:\baitapvip\btl\btl\obj\Debug\PreviewWindow.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\BanChoiQL.baml
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\DichVuNV.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\DichVuQL.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\HoaDonQL.baml
+D:\baitapvip\btl\btl\obj\Debug\HomeNVWindow.baml
+D:\baitapvip\btl\btl\obj\Debug\HomeQLWindow.baml
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\InHoaDonNV.baml
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\KhachHangNV.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\KhachHangQL.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\LoaiBanQL.baml
+D:\baitapvip\btl\btl\obj\Debug\MainWindow.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\NhaCCQL.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\NhanVienQL.baml
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\TimKiemQL.baml
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\TinhTienNV.baml
+D:\baitapvip\btl\btl\obj\Debug\designin.g.cs
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\BanChoiNV.g.cs
+D:\baitapvip\btl\btl\obj\Debug\PreviewWindow.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\BanChoiQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\DichVuNV.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\DichVuQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\HoaDonQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\HomeNVWindow.g.cs
+D:\baitapvip\btl\btl\obj\Debug\HomeQLWindow.g.cs
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\InHoaDonNV.g.cs
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\KhachHangNV.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\KhachHangQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\LoaiBanQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\MainWindow.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\NhaCCQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\NhanVienQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\QUANLY\TimKiemQL.g.cs
+D:\baitapvip\btl\btl\obj\Debug\NHANVIEN\TinhTienNV.g.cs
+D:\baitapvip\btl\btl\obj\Debug\App.g.cs
+D:\baitapvip\btl\btl\obj\Debug\btl_MarkupCompile.cache
+D:\baitapvip\btl\btl\obj\Debug\btl.g.resources
+D:\baitapvip\btl\btl\obj\Debug\btl.Properties.Resources.resources
+D:\baitapvip\btl\btl\obj\Debug\btl.csproj.GenerateResource.cache
+D:\baitapvip\btl\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+D:\baitapvip\btl\btl\obj\Debug\btl.csproj.Up2Date
+D:\baitapvip\btl\btl\obj\Debug\btl.exe
+D:\baitapvip\btl\btl\obj\Debug\btl.pdb

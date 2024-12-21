@@ -1,0 +1,60 @@
+﻿<Page x:Class="btl.TinhTienNV"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            Title="Tìm Kiếm" Height="667" Width="800">
+
+
+    <Grid Background="Aqua" Margin="20">
+        <!-- Row Definitions for Layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Column Definitions for Layout -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Header Section -->
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" 
+               Content="BẬT BÀN VÀ QUẢN LÝ DỮ LIỆU HÓA ĐƠN" FontSize="30" FontWeight="Bold" 
+               HorizontalAlignment="Center" VerticalAlignment="Center" 
+                Height="60" Margin="0,10"/>
+
+        <!-- Input Fields Section (Mã bàn, Loại bàn, Giá thuê, Trạng thái) -->
+        <StackPanel Background="Beige" Grid.Row="1" Grid.Column="0" Margin="10" VerticalAlignment="Top">
+            <Label Content="Mã Bàn:"/>
+            <TextBox x:Name="txtMaBan" Width="170" />
+
+            <Label Content="Mã Khách Hàng:"/>
+            <TextBox x:Name="txtMaKH" Width="170"/>
+
+            <Label Content="Mã Hóa Đơn:"/>
+            <TextBox x:Name="txtMaHD" Width="170" />
+
+            <Button Click="Button_Click_3" Content="LƯU DỮ LIỆU BÀN VÀO HÓA ĐƠN" Width="225" Height="40" Background="Green" Foreground="White" Margin="0,25"/>
+        </StackPanel>
+
+        <!-- Buttons Section for Add, Delete, Edit -->
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="70,10,90,0" VerticalAlignment="Top">
+            <Button Click="Button_Click" Content="Bật Bàn" Width="200" Height="50" Background="Green" Foreground="White" Margin="0,5"/>
+            <Button Click="Button_Click_1" Content="Tắt Bàn" Width="200" Height="50" Background="Red" Foreground="White" Margin="0,5"/>
+            <Button Click="Button_Click_2" Content="Xóa Dữ Liệu" Width="200" Height="50" Background="#37594d" Foreground="White" Margin="0,5"/>
+        </StackPanel>
+
+        <!-- DataGrid Section to display Table Data -->
+        <DataGrid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="dgBanChoi" AutoGenerateColumns="False" Margin="10" Height="300">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã Bàn" Binding="{Binding MaBan}" Width="1*"/>
+                <DataGridTextColumn Header="Mã Khách Hàng" Binding="{Binding MaKhachHang}" Width="1*"/>
+                <DataGridTextColumn Header="Thời Gian Bật" Binding="{Binding ThoiGianBat}" Width="1*"/>
+                <DataGridTextColumn Header="Thời Gian Tắt" Binding="{Binding ThoiGianTat}" Width="1*"/>
+                <DataGridTextColumn Header="Chi Phí" Binding="{Binding ChiPhi}" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+
+</Page>

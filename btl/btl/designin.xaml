@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="btl.designin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="600" d:DesignWidth="400">
+    <Grid Background="LightBlue" Margin="10">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <!-- Khung chứa hóa đơn -->
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="20" Background="White" Margin="20">
+                <StackPanel>
+                    <!-- Tiêu đề hóa đơn -->
+                    <TextBlock Text="HÓA ĐƠN QUÁN BILLIARDS" 
+                           FontSize="18" 
+                           FontWeight="Bold" 
+                           TextAlignment="Center" 
+                           Margin="0,0,0,10" />
+
+                    <!-- Dòng phân cách -->
+                    <TextBlock Text="----------------------------------------------------------------------------------"
+                           FontSize="14" 
+                           TextAlignment="Center" 
+                           Margin="0,0,0,10" />
+
+                    <!-- Thông tin cửa hàng -->
+                    <TextBlock Text="Địa chỉ: ĐH Mỏ" FontSize="14" TextAlignment="Center" />
+                    <TextBlock Text="SDT: 0123456789" FontSize="14" TextAlignment="Center" Margin="0,0,0,10" />
+
+                    <!-- Dòng phân cách -->
+                    <TextBlock Text="----------------------------------------------------------------------------------"
+                           FontSize="14" 
+                           TextAlignment="Center" 
+                           Margin="0,0,0,10" />
+
+                    <!-- Mã hóa đơn -->
+                    <TextBlock Text="{Binding MaHoaDon, StringFormat='Mã Hóa Đơn: {0}'}" 
+                           FontSize="14" 
+                           Margin="0,5" />
+                    <TextBlock Text="====================================================" FontSize="14" TextAlignment="Center" Margin="0,0,0,10" />
+
+                    <!-- Mã khách hàng -->
+                    <TextBlock Text="{Binding MaKhachHang, StringFormat='Mã Khách Hàng: {0}'}" 
+                           FontSize="14" 
+                           Margin="0,5" />
+                    <TextBlock Text="====================================================" FontSize="14" TextAlignment="Center" Margin="0,0,0,10" />
+
+                    <!-- Ngày thanh toán -->
+                    <TextBlock Text="{Binding NgayThanhToan, StringFormat='Ngày Thanh Toán: {0}'}" 
+                           FontSize="14" 
+                           Margin="0,5" />
+                    <TextBlock Text="====================================================" FontSize="14" TextAlignment="Center" Margin="0,0,0,10" />
+
+                    <!-- Tổng tiền -->
+                    <TextBlock Text="{Binding TongTien, StringFormat='Tổng Tiền: {0}'}" 
+                           FontSize="14" 
+                           Margin="0,5" />
+                    <TextBlock Text="====================================================" FontSize="14" TextAlignment="Center" Margin="0,0,0,10" />
+
+                    <Image Source="D:\taive\nganhang.png" 
+                            Height="100" 
+                            Width="100" 
+                            HorizontalAlignment="Center" 
+                            Margin="0,0,0,20" />
+
+                    <!-- Footer -->
+                    <TextBlock Text="Cảm ơn quý khách" 
+                           FontSize="14" 
+                           FontStyle="Italic" 
+                           TextAlignment="Right" 
+                           Margin="0,20,0,0" />
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</UserControl>
+

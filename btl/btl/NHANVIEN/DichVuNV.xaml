@@ -1,0 +1,53 @@
+﻿<Page x:Class="btl.DichVuNV"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dịch Vụ" Height="667" Width="800">
+
+    <Grid Background="Aquamarine" Margin="20">
+        <!-- Row Definitions for Layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Column Definitions for Layout -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Header Section -->
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" 
+           Content="QUẢN LÝ DỊCH VỤ" FontSize="30" FontWeight="Bold" 
+           HorizontalAlignment="Center" VerticalAlignment="Center" 
+            Height="60" Margin="0,10"/>
+
+        <StackPanel Background="AliceBlue" Grid.Row="1" Grid.Column="0" Margin="10" VerticalAlignment="Top">
+            <Label Content="Mã Dịch Vụ:"/>
+            <TextBox x:Name="txtMaDV" Width="170" />
+
+            <Label Content="Tên Dịch Vụ:"/>
+            <TextBox x:Name="txtTenDV" Width="170"/>
+
+            <Label Content="Giá Dịch Vụ:"/>
+            <TextBox x:Name="txtGiaDV" Width="170" />
+        </StackPanel>
+
+        <!-- Buttons Section for Add, Delete, Edit -->
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="70,10,90,0" VerticalAlignment="Top">
+            <Button Click="Button_Click" Content="Thêm Dịch Vụ" Width="200" Height="50" Background="Green" Foreground="White" Margin="0,5"/>
+            <Button Click="Button_Click_1" Content="Xóa Dịch Vụ" Width="200" Height="50" Background="Red" Foreground="White" Margin="0,5"/>
+            <Button Click="Button_Click_2" Content="Cập Nhật" Width="200" Height="50" Background="Orange" Foreground="White" Margin="0,5"/>
+        </StackPanel>
+
+        <!-- DataGrid Section to display Table Data -->
+        <DataGrid SelectionChanged="dgBanChoi_SelectionChanged" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="dgBanChoi" AutoGenerateColumns="False" Margin="10" Height="300">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã Dịch Vụ" Binding="{Binding MaDichVu}" Width="1*"/>
+                <DataGridTextColumn Header="Tên Dịch Vụ" Binding="{Binding TenDichVu}" Width="1*"/>
+                <DataGridTextColumn Header="Giá Dịch Vụ" Binding="{Binding GiaDichVu}" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

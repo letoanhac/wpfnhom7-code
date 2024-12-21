@@ -1,0 +1,16 @@
+﻿<Window x:Class="btl.PreviewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Xem trước hóa đơn" Height="500" Width="400">
+    <Grid>
+        <StackPanel>
+            <!-- Khu vực hiển thị hóa đơn -->
+            <ContentControl x:Name="InvoicePreview" HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+            <!-- Nút In -->
+            <Button Content="In Hóa Đơn" Width="150" Height="40" Margin="10"
+                    HorizontalAlignment="Center" Click="PrintButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
+

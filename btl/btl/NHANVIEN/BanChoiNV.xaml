@@ -1,0 +1,69 @@
+﻿<Page x:Class="btl.BanChoiNV"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Bàn Chơi" Height="667" Width="800">
+
+    <Grid Background="Aqua" Margin="20">
+        <!-- Row Definitions for Layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Column Definitions for Layout -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Header Section -->
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" 
+               Content="QUẢN LÝ BÀN CHƠI" FontSize="30" FontWeight="Bold" 
+               HorizontalAlignment="Center" VerticalAlignment="Center" 
+                Height="60" Margin="0,10"/>
+
+        <!-- Input Fields Section (Mã bàn, Loại bàn, Giá thuê, Trạng thái) -->
+        <StackPanel Background="Beige" Grid.Row="1" Grid.Column="0" Margin="10" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Mã Bàn:" Width="100" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtMaBan" Width="170"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Loại Bàn:" Width="100" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtLoaiBan" Width="170"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Giá Thuê:" Width="100" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtGiaThue" Width="170"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <Label Content="Trạng Thái:" Width="100" VerticalAlignment="Center"/>
+                <ComboBox x:Name="cmbTrangThai" Width="170">
+                    <ComboBoxItem Content="Còn Bàn" />
+                    <ComboBoxItem Content="Hết Bàn" />
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Buttons Section for Add, Delete, Edit -->
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="70,10,90,0" VerticalAlignment="Top">
+            <Button Click="Button_Click" Content="Thêm Bàn" Width="200" Height="50" Background="Green" Foreground="White" Margin="0,5"/>
+            <Button Click="Button_Click_1" Content="Xóa Bàn" Width="200" Height="50" Background="red" Foreground="White" Margin="0,5"/>
+            <Button Click="Button_Click_2" Content="Sửa Bàn" Width="200" Height="50" Background="#37594d" Foreground="White" Margin="0,5"/>
+        </StackPanel>
+
+        <!-- DataGrid Section to display Table Data -->
+        <DataGrid SelectionChanged="dgvBanChoi_SelectionChanged" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="dgvBanChoi" AutoGenerateColumns="False" Margin="10" Height="300">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã Bàn" Binding="{Binding MaBan}" Width="1*"/>
+                <DataGridTextColumn Header="Loại Bàn" Binding="{Binding LoaiBan}" Width="1*"/>
+                <DataGridTextColumn Header="Giá Thuê" Binding="{Binding GiaThue}" Width="1*"/>
+                <DataGridTextColumn Header="Trạng Thái" Binding="{Binding TrangThai}" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>
